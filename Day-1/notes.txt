@@ -1,0 +1,26 @@
+1. go to python.org
+2. in downloads click on python86-64 executable installer
+3. open set up
+4. click on checkbox to add python to path
+5. click on customization
+6. change path to install python
+7. search idle
+
+
+
+Python 2.7 vs 3.x
+
+1. print is function in 3.x  and in 2.7 print is a keyword
+2. True is a reserved keyword in 3.7 and in 2.7 it is a function
+
+
+
+
+
+
+
+
+
+
+
+
