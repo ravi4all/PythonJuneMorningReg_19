@@ -1,0 +1,1109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="google-site-verification" content="jCw2MRmuArWsfdZ6eUFD970J43Yuu-Zfx5Yw7-JP7ks" />
+        <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="LuT0UG24WLzOD6WtyLPch9_jQ6YvORAbswrilIkZPIRHr5kdOvB15f5OkYCni5LEu5o68HxcY0vEYtr2-HcO6w==">
+        <title>PagalWorld.Com, pagalworld,Pagalworld Mp3 Song ,Bollywood MP3 Songs Download , Ringtones</title>
+        <meta name="title" content="PagalWorld Pagalworld.com Mp3 Song Download Free Bollywood Punjabi Indipop MP3 Songs , Ringtones">
+<meta name="description" content="Download Pagalworld free bollywood mp3 songs, high quality ringtone , latest music online from Pagal World. Pagalworld.com is number one entertainment bollywood website of India and provide free pagalworld mp3 song download facility.Pagalworld.com is an best entertainment bollywood Mp3 Song website of India that provides free songs and mp3 download option. It offers to download free bollywood songs, latest music online, high quality ringtone from Pagal World. Download songs from the net. Why increasing numbers of individuals are installing. Mp3 players have been the favorite apparatus for music lovers throughout the planet making mp3 music and audio sites, which can make music and music constructed for download, one of the most well-known websites on the internet today If you are considering the benefit for downloading music and sounds in the internet maybe this brief article can allow you to realize why songs download occurring, and explain why one to ought to be using the internet to download your songs and mp3 song.">
+<meta name="keywords" content="pagalWorld, pagalworld.com, download , songs, mp3, mp3 song , mp3 songs , ringtone , ringtones , videos , pagalworld 2018">
+<link href="/css/style-a3236711006fd41a50b50d8f59ed3191.css" rel="stylesheet">
+        
+<script>
+    var androidGames = [{"title":"tiktalk","link":"http:\/\/bit.ly\/2J4B094","banner":["\/imgs\/YYlfThbTQi\/tiktalk.gif"],"display":1}];
+    var androidApps = [{"title":"Hindi Calendar","link":"https:\/\/play.google.com\/store\/apps\/details?id=hindu.hindi.calendar2019","banner":["\/imgs\/YYlfThbTQi\/hindi-calendar.png"],"display":1},{"title":"Tikring","link":"https:\/\/play.google.com\/store\/apps\/details?id=com.tikring.tiktok.ringtone_downloader","banner":["\/imgs\/YYlfThbTQi\/tikring-b1.gif"],"display":0},{"title":"GospeedVPN","link":"https:\/\/play.google.com\/store\/apps\/details?id=free.secure.vpn.unblock.proxy.gospeed","banner":["\/imgs\/YYlfThbTQi\/gospeed-vpn.gif"],"display":0},{"title":"TikTone","link":"https:\/\/play.google.com\/store\/apps\/details?id=com.shortaudio_tiktone.ringtonesforandroid","banner":["\/imgs\/YYlfThbTQi\/tiktone-b3.gif"],"display":0}];
+
+    function showBanner(apps, slotID) {
+        if (typeof (Storage) !== "undefined" && apps !== null) {
+            if (localStorage.getItem(slotID) == null) {
+                localStorage.setItem(slotID, JSON.stringify(apps));
+                apps = localStorage.getItem(slotID);
+                displayBanner(apps, slotID);
+            } else {
+                var apps = localStorage.getItem(slotID);
+                displayBanner(apps, slotID);
+            }
+        } else {
+            console.log("Sorry, your browser does not support Web Storage...");
+        }
+    }
+
+    function displayBanner(apps, slotID) {
+        appsObj = JSON.parse(apps);
+        totalApps = appsObj.length;
+        var reset = false;
+        for (var key in appsObj) {
+            app = appsObj[key];
+
+            if (appsObj[key].display == 1) {
+                document.write('<div class="a_container"><a href="' + app.link + '" target="_blank" class=""><img src="' + app.banner + '" width="100%" alt=""></a></div>');
+                appsObj[key].display = 0;
+                if (key < (totalApps - 1)) {
+                    var nextIndex = (Number(key) + 1);
+                    appsObj[nextIndex].display = 1;
+                    break;
+                } else {
+                    appsObj[0].display = 1;
+                    reset = true;
+                    break;
+                }
+            }
+        }
+        if (reset) {
+            localStorage.removeItem(slotID);
+        } else {
+            localStorage.setItem(slotID, JSON.stringify(appsObj));
+        }
+
+    }
+
+    function dd(title, data) {
+        var temp = document.getElementById("dump").innerHTML;
+        displayData = temp + "<hr>" + title + " : " + data;
+
+        document.getElementById("dump").innerHTML = displayData;
+
+    }
+
+
+</script>
+<!-- Banner END -->
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/pagalworldorg/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script> 
+        <link rel="manifest" href="/manifest.json" />
+        
+    </head>
+    <body>
+                       
+        <div class="adrect2">
+            &nbsp;
+            <!--<div><i class="fa fa-picture-o"></i>&ensp;Ads Goes Here 1</div>-->
+        </div>
+        <main>
+            <header>
+                <a href="/" title="Pagalworld.live"> 
+                    <img src="/img/logo.png" height="50" alt="logo">                </a>
+                <!--<a class="pull-right" href="https://t.me/pagalworldasli" style="color: #FFF; font-size: 32px; padding: 5px 15px; color: #00bbcc;"><i class="fa fa-telegram"></i></a>-->     
+            </header>
+            <br> 
+<!--            <div>
+                <script>
+                    showBanner(androidApps, "promoApps");                    
+                </script>
+            </div>                         --> 
+            <? // CmsHelper::showAppsAd() ?>
+                                    
+<br>
+<div class="quick_links">
+    <a href="https://www.pagalworld.live/bollywood-movies-hindi-mp3-songs-2019/list.html"><i class='fa fa-caret-right'></i> Bollywood 2019</a><a href="https://www.pagalworld.live/latest-new-punjabi-mp3-songs-2019/files.html"><i class='fa fa-caret-right'></i> Punjabi 2019</a><a href="https://www.pagalworld.live/indian-pop-mp3-songs-2019/files.html"><i class='fa fa-caret-right'></i> IndiPOP 2019</a><a href="https://www.pagalworld.live/top-songs.html"><i class='fa fa-caret-right'></i> Tops Songs 2019</a></div> 
+
+
+<a href="/a-to-z-bollywood-mp3-songs/list.html" style="background: #CC0000; display: block; text-align: center; color:#fff;text-decoration:none;padding: 12px;">
+    <i class="fa fa-cog fa-spin"></i> A to Z Bollywood Mp3 Songs <i class="fa fa-cog fa-spin"></i>
+</a>
+ 
+<h1 class="title">LATEST BOLLYWOOD PUNJABI INDIPOP PAGALWORLD MP3 SONGS AND MP3 SONG - PAGALWORLD.COM </h1>
+
+<!--Ads Area-->
+    <script>
+        (function () {
+            var cx = '018271611096168741236:WMX1308135426';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
+    </script>
+    <gcse:search></gcse:search>
+
+<span style="padding: 0px 25px 15px 25px; display: block">
+    <h2>Welcome To pagalworld</h2>
+<p>Pagalworld - New Hindi Songs Music is the best source of entertainment that keeps you entertain all time. Pagalworld.com contain free unlimited Entertainment Mp3 Songs for those who love to listen to Hindi mp3 song. Mp3 Pagalworld is a pure, and fast website let you access free Hindi music. Get the latest and greatest hits from a collection of Bollywood Latest, Classics, Hindi, Ghazals, Indipop &amp; Punjabi music! It is very pure and straightforward Pagalworld website for listening to music. 
+    Pagalworld is a platform to get best mp3 songs collection </p>
+<h3>What is Pagalworld:</h3>
+
+<p>We help you to find trending mp3 song, trending videos, and ringtones, we will help you to get latest Punjabi, Bollywood, latest songs video and ringtones collection, If you are want to download the ringtone of Bollywood Ringtone, Top Ringtones for your mobile. Pagalworld is the best website for download ringtones in free. Pagalworld is an online music website which contains the online ringtones, mp3 songs in free. Visit Pagalworld and Download your favourite mp3 ringtones.</p>
+<p>With the development of music sites, the tendency of listening to audio while running daily activities has grown significantly one of the millennials. While underlining the popularity of sound, this article mainly talks about the debut of internet music downloading portal sites. It points of the benefits of these portals. This report tries to provide readers with a summary of the significance and sources of electronic audio. It then proceeds to discuss the many benefits of the electronic format in regards to music. Also, it highlights how one may stream or download one's favourite pop tunes from reputed audio portals.</p>
+
+<h3>Why Pagalworld:</h3>
+<p>Wish to download free mp3 music? Have a look at pagalworld and find the hottest Bollywood mp3 music collection. Pagalworld delivers the popup, remixed, DJ, celebration and latest mp3 music set at free of charge. Hurry to get your favourite tunes list from Pagalworld. Songs provide us with peace of mind, tranquillity, calmness and emotional upliftment. They could serve numerous diverse functions. For example, tunes can be performed for babies to put them. Music is utilised for entertainment through films and tv shows, although it's a source of inspiration and upliftment through parades, marches, etc.. Music could be of different types -- by the soothing music of old Hindi movie tunes to the peppy thing songs of the contemporary world. Among the factors for that music is most commonly utilised in modern times is through workout or exercise sessions. Music offers motivation.</p>
+<h3>Share Us:</h3>
+<p>When you get our Pagalworld website don't forget to share with your friends.</p>   
+</span> 
+
+<div class="div-nogap">
+    <div class="onediv" style="margin-top: 0px">
+        <h3 class="title1"><i class="fa fa-bell"></i>&ensp;Latest Updates <span><a href="/home/updates">View All&ensp;<i class="fa fa-angle-double-right"></i></a></span></h3>
+        <ul>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/saaho-hindi-teaser-trailer/download.html"><img src="/imgs/loading.svg" width="90px" alt="Saaho - Hindi Teaser Trailer" title="Saaho - Hindi Teaser Trailer" data-src="/imgs/updates/752-Saaho - Hindi Teaser Trailer.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/saaho-hindi-teaser-trailer/download.html">Saaho - Hindi Teaser Trailer</a></h3>
+                                                <p>Prabhas</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/saaho-hindi-teaser-trailer/download.html">HD Video</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/tere-jaane-se-pehle-jubin-nautiyal-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Tere Jaane Se Pehle - Jubin Nautiyal" title="Tere Jaane Se Pehle - Jubin Nautiyal" data-src="/imgs/updates/751-Tere Jaane Se Pehle - Jubin Nautiyal.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/tere-jaane-se-pehle-jubin-nautiyal-mp3-song/download.html">Tere Jaane Se Pehle - Jubin Nautiyal</a></h3>
+                                                <p>Exclusive</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/tere-jaane-se-pehle-jubin-nautiyal-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/kaise-hua-kabir-singh-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Kaise Hua - Kabir Singh" title="Kaise Hua - Kabir Singh" data-src="/imgs/updates/750-Kaise Hua - Kabir Singh.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/kaise-hua-kabir-singh-mp3-song/download.html">Kaise Hua - Kabir Singh</a></h3>
+                                                <p>Vishal Mishra</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/kaise-hua-kabir-singh-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/shuru-karein-kya-article-15-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Shuru Karein Kya - Article 15" title="Shuru Karein Kya - Article 15" data-src="/imgs/updates/749-Shuru Karein Kya - Article 15.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/shuru-karein-kya-article-15-mp3-song/download.html">Shuru Karein Kya - Article 15</a></h3>
+                                                <p>SlowCheeta, Kaam Bhaari</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/shuru-karein-kya-article-15-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/tere-bin-kive-mr-faisu-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Tere Bin Kive - Mr Faisu" title="Tere Bin Kive - Mr Faisu" data-src="/imgs/updates/748-Tere Bin Kive - Mr Faisu.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/tere-bin-kive-mr-faisu-mp3-song/download.html">Tere Bin Kive - Mr Faisu</a></h3>
+                                                <p>Ramji Gulati</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/tere-bin-kive-mr-faisu-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/fakira-sanam-puri-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Fakira - Sanam Puri" title="Fakira - Sanam Puri" data-src="/imgs/updates/747-Fakira - Sanam Puri.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/fakira-sanam-puri-mp3-song/download.html">Fakira - Sanam Puri</a></h3>
+                                                <p>SOTY 2</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/fakira-sanam-puri-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/humne-rait-pe-neha-kakkar-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Humne Rait Pe - Neha Kakkar" title="Humne Rait Pe - Neha Kakkar" data-src="/imgs/updates/746-Humne Rait Pe - Neha Kakkar.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/humne-rait-pe-neha-kakkar-mp3-song/download.html">Humne Rait Pe - Neha Kakkar</a></h3>
+                                                <p>Tony Kakkar</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/humne-rait-pe-neha-kakkar-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/bharat-2019-hindi-movie-mp3-songs/files.html"><img src="/imgs/loading.svg" width="90px" alt="Bharat (2019) Full Album" title="Bharat (2019) Full Album" data-src="/imgs/updates/724-Bharat (2019) Full Album.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/bharat-2019-hindi-movie-mp3-songs/files.html">Bharat (2019) Full Album</a></h3>
+                        <span class='utag bgred'>iTunesRip</span>                        <p>Salman Khan</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/bharat-2019-hindi-movie-mp3-songs/files.html">MP3 Songs</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/mere-sohneya-kabir-singh-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Mere Sohneya - Kabir Singh" title="Mere Sohneya - Kabir Singh" data-src="/imgs/updates/743-Mere Sohneya - Kabir Singh.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/mere-sohneya-kabir-singh-mp3-song/download.html">Mere Sohneya - Kabir Singh</a></h3>
+                                                <p>Sachet Tandon</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/mere-sohneya-kabir-singh-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/zindagi-di-paudi-millind-gaba-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Zindagi Di Paudi - Millind Gaba" title="Zindagi Di Paudi - Millind Gaba" data-src="/imgs/updates/744-Zindagi Di Paudi - Millind Gaba.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/zindagi-di-paudi-millind-gaba-mp3-song/download.html">Zindagi Di Paudi - Millind Gaba</a></h3>
+                                                <p>Jannat Zubair</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/zindagi-di-paudi-millind-gaba-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/janib-sajde-kiye-hain-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Janib - Sajde Kiye Hain" title="Janib - Sajde Kiye Hain" data-src="/imgs/updates/745-Janib - Sajde Kiye Hain.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/janib-sajde-kiye-hain-mp3-song/download.html">Janib - Sajde Kiye Hain</a></h3>
+                                                <p>Javed Ali, Harshdeep Kaur</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/janib-sajde-kiye-hain-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/super-30-trailer/download.html"><img src="/imgs/loading.svg" width="90px" alt="Super 30 - Trailer" title="Super 30 - Trailer" data-src="/imgs/updates/742-Super 30 - Trailer.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/super-30-trailer/download.html">Super 30 - Trailer</a></h3>
+                                                <p>Hrithik Roshan</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/super-30-trailer/download.html">HD Video</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/mama-mia-naezy-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Mama Mia - Naezy" title="Mama Mia - Naezy" data-src="/imgs/updates/741-Mama Mia - Naezy.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/mama-mia-naezy-mp3-song/download.html">Mama Mia - Naezy</a></h3>
+                                                <p>Sez on the Beat</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/mama-mia-naezy-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/bekhayali-arijit-singh-version-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Bekhayali - Arijit Singh Version" title="Bekhayali - Arijit Singh Version" data-src="/imgs/updates/739-Bekhayali - Arijit Singh Version.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/bekhayali-arijit-singh-version-mp3-song/download.html">Bekhayali - Arijit Singh Version</a></h3>
+                                                <p>Kabir Singh</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/bekhayali-arijit-singh-version-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/mathi-mathi-amrinder-gill-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Mathi Mathi - Amrinder Gill" title="Mathi Mathi - Amrinder Gill" data-src="/imgs/updates/740-Mathi Mathi - Amrinder Gill.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/mathi-mathi-amrinder-gill-mp3-song/download.html">Mathi Mathi - Amrinder Gill</a></h3>
+                                                <p>Dr Zeus</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/mathi-mathi-amrinder-gill-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/dj-remix-singles-2019-hindi-mp3-songs/files.html"><img src="/imgs/loading.svg" width="90px" alt="Superhit DJ Remix Songs " title="Superhit DJ Remix Songs " data-src="/imgs/updates/738-Superhit DJ Remix Songs .jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/dj-remix-singles-2019-hindi-mp3-songs/files.html">Superhit DJ Remix Songs </a></h3>
+                                                <p>Slow Motion Remix</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/dj-remix-singles-2019-hindi-mp3-songs/files.html">Mp3 Songs</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/soty-2-mashup-dj-notorious-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="SOTY 2 Mashup - DJ Notorious" title="SOTY 2 Mashup - DJ Notorious" data-src="/imgs/updates/737-SOTY 2 Mashup - DJ Notorious.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/soty-2-mashup-dj-notorious-mp3-song/download.html">SOTY 2 Mashup - DJ Notorious</a></h3>
+                                                <p>Lijo George</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/soty-2-mashup-dj-notorious-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/tujhe-kitna-chahne-lage-kabir-singh-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Tujhe Kitna Chahne Lage - Kabir Singh" title="Tujhe Kitna Chahne Lage - Kabir Singh" data-src="/imgs/updates/736-Tujhe Kitna Chahne Lage - Kabir Singh.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/tujhe-kitna-chahne-lage-kabir-singh-mp3-song/download.html">Tujhe Kitna Chahne Lage - Kabir Singh</a></h3>
+                        <span class='utag bgred'>iTunesRip</span>                        <p>Arijit Singh & Mithoon</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/tujhe-kitna-chahne-lage-kabir-singh-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/kudiye-ni-neeti-mohan-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Kudiye Ni - Aparshakti Khurana" title="Kudiye Ni - Aparshakti Khurana" data-src="/imgs/updates/735-Kudiye Ni - Aparshakti Khurana.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/kudiye-ni-neeti-mohan-mp3-song/download.html">Kudiye Ni - Aparshakti Khurana</a></h3>
+                                                <p>Neeti Mohan</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/kudiye-ni-neeti-mohan-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/aila-re-malaal-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Aila Re - Malaal" title="Aila Re - Malaal" data-src="/imgs/updates/734-Aila Re - Malaal.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/aila-re-malaal-mp3-song/download.html">Aila Re - Malaal</a></h3>
+                                                <p>Sanjay Leela Bhansali</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/aila-re-malaal-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/banni-tharo-banno-diwano-gadi-fortuner-tiktok-dj-remix-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Banni Tharo Banno Diwano Gadi Fortuner Layo" title="Banni Tharo Banno Diwano Gadi Fortuner Layo" data-src="/imgs/updates/733-Banni Tharo Banno Diwano Gadi Fortuner Layo.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/banni-tharo-banno-diwano-gadi-fortuner-tiktok-dj-remix-mp3-song/download.html">Banni Tharo Banno Diwano Gadi Fortuner Layo</a></h3>
+                                                <p>Superhit TikTok DJ Remix</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/banni-tharo-banno-diwano-gadi-fortuner-tiktok-dj-remix-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/gas-puri-20-percent-surinder-singh-rjt-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Gas Puri 20 Percent - Surinder Singh " title="Gas Puri 20 Percent - Surinder Singh " data-src="/imgs/updates/732-Gas Puri 20 Percent - Surinder Singh .jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/gas-puri-20-percent-surinder-singh-rjt-mp3-song/download.html">Gas Puri 20 Percent - Surinder Singh </a></h3>
+                                                <p>RJT</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/gas-puri-20-percent-surinder-singh-rjt-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/bekhayali-kabir-singh-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Bekhayali - Kabir Singh" title="Bekhayali - Kabir Singh" data-src="/imgs/updates/730-Bekhayali - Kabir Singh.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/bekhayali-kabir-singh-mp3-song/download.html">Bekhayali - Kabir Singh</a></h3>
+                                                <p>Sachet Tandon</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/bekhayali-kabir-singh-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/o-saathi-humsafar-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="O Saathi - Humsafar" title="O Saathi - Humsafar" data-src="/imgs/updates/729-O Saathi - Humsafar.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/o-saathi-humsafar-mp3-song/download.html">O Saathi - Humsafar</a></h3>
+                                                <p>Nikhita Gandhi</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/o-saathi-humsafar-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/chore-katal-karawe-tu-kati-jeher-hai-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Chori Katal Karawe Tu Kati Jeher Hai" title="Chori Katal Karawe Tu Kati Jeher Hai" data-src="/imgs/updates/728-Chori Katal Karawe Tu Kati Jeher Hai.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/chore-katal-karawe-tu-kati-jeher-hai-mp3-song/download.html">Chori Katal Karawe Tu Kati Jeher Hai</a></h3>
+                                                <p>Superhit TikTok Song</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/chore-katal-karawe-tu-kati-jeher-hai-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/heartbeat-navdeep-singh-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Heartbeat - Navdeep Singh" title="Heartbeat - Navdeep Singh" data-src="/imgs/updates/727-Heartbeat - Navdeep Singh.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/heartbeat-navdeep-singh-mp3-song/download.html">Heartbeat - Navdeep Singh</a></h3>
+                                                <p>Superhit Song</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/heartbeat-navdeep-singh-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/sajna-ve-vishal-mishra-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Sajna Ve - Vishal Mishra" title="Sajna Ve - Vishal Mishra" data-src="/imgs/updates/726-Sajna Ve - Vishal Mishra.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/sajna-ve-vishal-mishra-mp3-song/download.html">Sajna Ve - Vishal Mishra</a></h3>
+                                                <p>Lisa Mishra</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/sajna-ve-vishal-mishra-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/naina-2019-gourov-roshin/files.html"><img src="/imgs/loading.svg" width="90px" alt="Naina (2019) Gourov Roshin" title="Naina (2019) Gourov Roshin" data-src="/imgs/updates/725-Naina (2019) Gourov Roshin.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/naina-2019-gourov-roshin/files.html">Naina (2019) Gourov Roshin</a></h3>
+                                                <p>Ankit Tiwari</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/naina-2019-gourov-roshin/files.html">MP3 Songs</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/de-de-pyaar-de-2019-mp3-songs/files.html"><img src="/imgs/loading.svg" width="90px" alt="De De Pyaar De (2019) Full Album" title="De De Pyaar De (2019) Full Album" data-src="/imgs/updates/721-De De Pyaar De (2019) Full Album.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/de-de-pyaar-de-2019-mp3-songs/files.html">De De Pyaar De (2019) Full Album</a></h3>
+                        <span class='utag bgred'>iTunesRip</span>                        <p>Arijit Singh</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/de-de-pyaar-de-2019-mp3-songs/files.html">MP3 Songs</a>                    </div>
+                </li>
+                            <li class="tnned">
+                    <div>
+                        <a href="https://www.pagalworld.live/main-wahi-hoon-raftaar-mp3-song/download.html"><img src="/imgs/loading.svg" width="90px" alt="Main Wahi Hoon - Raftaar" title="Main Wahi Hoon - Raftaar" data-src="/imgs/updates/722-Main Wahi Hoon - Raftaar.jpg"></a>                    </div>
+                    <div>
+                        <h3><a href="https://www.pagalworld.live/main-wahi-hoon-raftaar-mp3-song/download.html">Main Wahi Hoon - Raftaar</a></h3>
+                                                <p>Karma</p>
+                    </div>
+                    <div>
+                        <a class="taga" href="https://www.pagalworld.live/main-wahi-hoon-raftaar-mp3-song/download.html">MP3 Song</a>                    </div>
+                </li>
+             
+        </ul>
+          
+
+    </div>
+</div>
+
+<div class="div-nogap">
+    <div class="col-sm-12 threediv">
+        <h3 class="title1"><i class="fa fa-folder-open"></i>&ensp;Category Listing</h3>
+        <ul class="iconzz">
+            <li><h2><a href="/music.html"><i class="fa fa-music"></i><span>Music</span></a></h2></li>
+            <li><h2><a href="/videos.html"><i class="fa fa-video-camera"></i><span>Videos</span></a></h2></li>
+            <li><h2><a href="/ringtones.html"><i class="fa fa-scissors"></i><span>Ringtones</span></a></h2></li>
+            <li><h2><a href="/search" title="Search Songs &amp; Files"><i class="fa fa-search"></i><span>Search Files</span></a></h2></li>
+        </ul>
+    </div>
+</div>
+
+<div class="div-nogap">
+    <div class="onediv">
+        <h3 class="title1"><i class="fa fa-play-circle-o"></i>&ensp;Recent Albums</h3>
+         
+        <ul class="home-thumbz">
+                            <li>
+                    <a href="/article-15-2019-mp3-songs/files.html" title="Article 15 (2019) Mp3 Songs">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/113399/thumb-article-15-2019-mp3-songs-200-200.jpg" alt="Article 15 (2019) Mp3 Songs"/>
+                                                <span class="thumb_desc" title="Article 15 (2019) Mp3 Songs">Article 15 </span> 
+                    </a>
+                </li>
+                            <li>
+                    <a href="/kabir-singh-2019-mp3-songs/files.html" title="Kabir Singh (2019) Mp3 Songs">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14697/thumb-kabir-singh-2019-mp3-songs-200-200.jpg" alt="Kabir Singh (2019) Mp3 Songs"/>
+                                                <span class="thumb_desc" title="Kabir Singh (2019) Mp3 Songs">Kabir Singh </span> 
+                    </a>
+                </li>
+                            <li>
+                    <a href="/bharat-2019-hindi-movie-mp3-songs/files.html" title="Bharat (2019) Hindi Movie Mp3 Songs">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14694/thumb-bharat-2019-hindi-movie-mp3-songs-200-200.jpg" alt="Bharat (2019) Hindi Movie Mp3 Songs"/>
+                                                <span class="thumb_desc" title="Bharat (2019) Hindi Movie Mp3 Songs">Bharat </span> 
+                    </a>
+                </li>
+                            <li>
+                    <a href="/de-de-pyaar-de-2019-mp3-songs/files.html" title="De De Pyaar De (2019) Mp3 Songs">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14688/thumb-de-de-pyaar-de-2019-mp3-songs-200-200.jpg" alt="De De Pyaar De (2019) Mp3 Songs"/>
+                                                <span class="thumb_desc" title="De De Pyaar De (2019) Mp3 Songs">De De Pyaar </span> 
+                    </a>
+                </li>
+                            <li>
+                    <a href="/student-of-the-year-2-2019-mp3-songs/files.html" title="Student Of The Year 2 (2019) Mp3 Songs">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14691/thumb-student-of-the-year-2-2019-mp3-songs-200-200.jpg" alt="Student Of The Year 2 (2019) Mp3 Songs"/>
+                                                <span class="thumb_desc" title="Student Of The Year 2 (2019) Mp3 Songs">Student Of T</span> 
+                    </a>
+                </li>
+                            <li>
+                    <a href="/mixtape-season-2-2019-mp3-songs/files.html" title="Mixtape Season 2  (2019) Mp3 Songs">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14686/thumb-mixtape-season-2-2019-mp3-songs-200-200.jpg" alt="Mixtape Season 2  (2019) Mp3 Songs"/>
+                                                <span class="thumb_desc" title="Mixtape Season 2  (2019) Mp3 Songs">Mixtape Seas</span> 
+                    </a>
+                </li>
+                            <li>
+                    <a href="/luka-chuppi-2019-mp3-songs/files.html" title="Luka Chuppi (2019) Mp3 Songs">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14666/thumb-luka-chuppi-2019-mp3-songs-200-200.jpg" alt="Luka Chuppi (2019) Mp3 Songs"/>
+                                                <span class="thumb_desc" title="Luka Chuppi (2019) Mp3 Songs">Luka Chuppi </span> 
+                    </a>
+                </li>
+                            <li>
+                    <a href="/kesari-2019-mp3-songs/files.html" title="Kesari (2019) Mp3 Songs">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14676/thumb-kesari-2019-mp3-songs-200-200.jpg" alt="Kesari (2019) Mp3 Songs"/>
+                                                <span class="thumb_desc" title="Kesari (2019) Mp3 Songs">Kesari </span> 
+                    </a>
+                </li>
+                    </ul>
+    </div>
+</div>
+
+<div class="div-nogap">
+    <div class="onediv">
+        <h3 class="title1"><i class="fa fa-play-circle-o"></i>&ensp;Top Songs <span><a href="/top-songs.html">View All&ensp;<i class="fa fa-angle-double-right"></i></a></span></h3>
+         
+        <ul class="home-thumbz">
+                            <li>
+                    <a href="/zindagi-di-paudi-millind-gaba-mp3-song/download.html" title="Zindagi Di Paudi - Millind Gaba">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14642/142787-zindagi-di-paudi-millind-gaba-mp3-song-200-200.jpg" alt="Zindagi Di Paudi - Millind Gaba"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Zindagi Di Paudi - Millind Gaba">Zindagi Di Paudi - Millind Gaba</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/teri-mitti-kesari-mp3-song/download.html" title="Teri Mitti - Kesari">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14676/118784-teri-mitti-kesari-mp3-song-200-200.jpg" alt="Teri Mitti - Kesari"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Teri Mitti - Kesari">Teri Mitti - Kesari</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/bekhayali-arijit-singh-version-mp3-song/download.html" title="Bekhayali - Arijit Singh Version">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14697/142772-bekhayali-arijit-singh-version-mp3-song-200-200.jpg" alt="Bekhayali - Arijit Singh Version"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Bekhayali - Arijit Singh Version">Bekhayali - Arijit Singh Version</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/tujhe-kitna-chahne-lage-kabir-singh-mp3-song/download.html" title="Tujhe Kitna Chahne Lage - Kabir Singh">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14697/142750-tujhe-kitna-chahne-lage-kabir-singh-mp3-song-200-200.jpg" alt="Tujhe Kitna Chahne Lage - Kabir Singh"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Tujhe Kitna Chahne Lage - Kabir Singh">Tujhe Kitna Chahne Lage - Kabir Singh</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/chore-katal-karawe-tu-kati-jeher-hai-mp3-song/download.html" title="Chore Katal Karawe Tu Kati Jeher Hai">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14454/119265-chore-katal-karawe-tu-kati-jeher-hai-mp3-song-200-200.jpg" alt="Chore Katal Karawe Tu Kati Jeher Hai"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Chore Katal Karawe Tu Kati Jeher Hai">Chore Katal Karawe Tu Kati Jeher Hai</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/dil-royi-jaye-de-de-pyaar-de-mp3-song/download.html" title="Dil Royi Jaye - De De Pyaar De">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14688/119229-dil-royi-jaye-de-de-pyaar-de-mp3-song-200-200.jpg" alt="Dil Royi Jaye - De De Pyaar De"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Dil Royi Jaye - De De Pyaar De">Dil Royi Jaye - De De Pyaar De</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/mukhda-vekh-ke-de-de-pyaar-de-mp3-song/download.html" title="Mukhda Vekh Ke - De De Pyaar De">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14688/119220-mukhda-vekh-ke-de-de-pyaar-de-mp3-song-200-200.jpg" alt="Mukhda Vekh Ke - De De Pyaar De"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Mukhda Vekh Ke - De De Pyaar De">Mukhda Vekh Ke - De De Pyaar De</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/aithey-aa-bharat-mp3-song/download.html" title="Aithey Aa - Bharat">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14694/119219-aithey-aa-bharat-mp3-song-200-200.jpg" alt="Aithey Aa - Bharat"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Aithey Aa - Bharat">Aithey Aa - Bharat</span>
+
+                    </a></li>
+                    </ul>
+        <div class="clearfix"></div>
+          
+    </div>
+</div>
+
+<div class="div-nogap">
+    <div class="onediv">
+                <h3 class="title1"><i class="fa fa-play-circle-o"></i>&ensp;TikTok Trending Songs <span><a href="/tik-tok-hindi-punjabi-hit-mp3-songs-2018/files.html">View All&ensp;<i class="fa fa-angle-double-right"></i></a></span></h3>
+         
+        <ul class="home-thumbz">
+                            <li>
+                    <a href="/gadi-fortuner-layo-tiktok-superhit-mp3-song/download.html" title="Gadi Fortuner Layo - TikTok SuperHit">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14454/142739-gadi-fortuner-layo-tiktok-superhit-mp3-song-200-200.jpg" alt="Gadi Fortuner Layo - TikTok SuperHit"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Gadi Fortuner Layo - TikTok SuperHit">Gadi Fortuner Layo - TikTok SuperHit</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/banni-tharo-banno-diwano-gadi-fortuner-tiktok-dj-remix-mp3-song/download.html" title="Banni Tharo Banno Diwano Gadi Fortuner - TikTok DJ Remix">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14454/142738-banni-tharo-banno-diwano-gadi-fortuner-tiktok-dj-remix-mp3-song-200-200.jpg" alt="Banni Tharo Banno Diwano Gadi Fortuner - TikTok DJ Remix"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Banni Tharo Banno Diwano Gadi Fortuner - TikTok DJ Remix">Banni Tharo Banno Diwano Gadi Fortuner - TikTok DJ Remix</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/gas-puri-20-percent-surinder-singh-rjt-mp3-song/download.html" title="Gas Puri 20 Percent - Surinder Singh RJT">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14454/142735-gas-puri-20-percent-surinder-singh-rjt-mp3-song-200-200.jpg" alt="Gas Puri 20 Percent - Surinder Singh RJT"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Gas Puri 20 Percent - Surinder Singh RJT">Gas Puri 20 Percent - Surinder Singh RJT</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/chore-katal-karawe-tu-kati-jeher-hai-mp3-song/download.html" title="Chore Katal Karawe Tu Kati Jeher Hai">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14454/119265-chore-katal-karawe-tu-kati-jeher-hai-mp3-song-200-200.jpg" alt="Chore Katal Karawe Tu Kati Jeher Hai"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Chore Katal Karawe Tu Kati Jeher Hai">Chore Katal Karawe Tu Kati Jeher Hai</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/heartbeat-navdeep-singh-mp3-song/download.html" title="Heartbeat - Navdeep Singh">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14454/119264-heartbeat-navdeep-singh-mp3-song-200-200.jpg" alt="Heartbeat - Navdeep Singh"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Heartbeat - Navdeep Singh">Heartbeat - Navdeep Singh</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/itna-na-yaad-aaya-karo-so-na-sake-mp3-song/download.html" title="Itna Na Yaad Aaya Karo So Na Sake">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14454/119197-itna-na-yaad-aaya-karo-so-na-sake-mp3-song-200-200.jpg" alt="Itna Na Yaad Aaya Karo So Na Sake"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Itna Na Yaad Aaya Karo So Na Sake">Itna Na Yaad Aaya Karo So Na Sake</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/mainu-pata-hai-tu-fan-salman-khan-di-mp3-song/download.html" title="Mainu Pata Hai Tu Fan Salman Khan Di">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14454/119153-mainu-pata-hai-tu-fan-salman-khan-di-mp3-song-200-200.jpg" alt="Mainu Pata Hai Tu Fan Salman Khan Di"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Mainu Pata Hai Tu Fan Salman Khan Di">Mainu Pata Hai Tu Fan Salman Khan Di</span>
+
+                    </a></li>
+                            <li>
+                    <a href="/ek-samay-mein-toh-tere-dil-se-juda-tha-mp3-song/download.html" title="Ek Samay Mein Toh Tere Dil Se Juda Tha">
+                                                    <img src="/imgs/loading.svg" data-src="/GpE34Kg9Gq/14454/119107-ek-samay-mein-toh-tere-dil-se-juda-tha-mp3-song-200-200.jpg" alt="Ek Samay Mein Toh Tere Dil Se Juda Tha"/>
+                        
+                        <span class="thumb_desc" style="height: 43px;" title="Ek Samay Mein Toh Tere Dil Se Juda Tha">Ek Samay Mein Toh Tere Dil Se Juda Tha</span>
+
+                    </a></li>
+                    </ul>
+        <div class="clearfix"></div>
+          
+    </div>
+</div>
+
+
+    <div class="div-nogap trend">
+        <div class="col12 onediv">
+                                        <!--                <h2 class="title1">
+                                    <i class="fa fa-music"></i>&ensp;Bollywood Music 
+                                    <span>
+                                        <a href="/bollywood-movies-hindi-mp3-songs-2019/list.html">View All&ensp;<i class="fa fa-angle-double-right"></i></a>
+                                    </span>
+                                </h2>-->
+
+                
+                                    <h2 class="title1">
+                        <i class="fa fa-music"></i>&ensp;Bollywood Music 
+                        <span>
+                            <a href="/bollywood-movies-hindi-mp3-songs-2019/list.html">View All&ensp;<i class="fa fa-angle-double-right"></i></a>
+                        </span>
+                    </h2>
+                                    
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/article-15-2019-mp3-songs/files.html" class=""><img title='Article 15 (2019) Mp3 Songs' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/113399/thumb-article-15-2019-mp3-songs-100-100.jpg' alt='Article 15 (2019) Mp3 Songs' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/article-15-2019-mp3-songs/files.html">Article 15 (2019) Mp3 Songs</a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/kabir-singh-2019-mp3-songs/files.html" class=""><img title='Kabir Singh (2019) Mp3 Songs' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14697/thumb-kabir-singh-2019-mp3-songs-100-100.jpg' alt='Kabir Singh (2019) Mp3 Songs' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/kabir-singh-2019-mp3-songs/files.html">Kabir Singh (2019) Mp3 Songs</a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/bharat-2019-hindi-movie-mp3-songs/files.html" class=""><img title='Bharat (2019) Hindi Movie Mp3 Songs' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14694/thumb-bharat-2019-hindi-movie-mp3-songs-100-100.jpg' alt='Bharat (2019) Hindi Movie Mp3 Songs' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/bharat-2019-hindi-movie-mp3-songs/files.html">Bharat (2019) Hindi Movie Mp3 Songs</a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/de-de-pyaar-de-2019-mp3-songs/files.html" class=""><img title='De De Pyaar De (2019) Mp3 Songs' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14688/thumb-de-de-pyaar-de-2019-mp3-songs-100-100.jpg' alt='De De Pyaar De (2019) Mp3 Songs' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/de-de-pyaar-de-2019-mp3-songs/files.html">De De Pyaar De (2019) Mp3 Songs</a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/student-of-the-year-2-2019-mp3-songs/files.html" class=""><img title='Student Of The Year 2 (2019) Mp3 Songs' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14691/thumb-student-of-the-year-2-2019-mp3-songs-100-100.jpg' alt='Student Of The Year 2 (2019) Mp3 Songs' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/student-of-the-year-2-2019-mp3-songs/files.html">Student Of The Year 2 (2019) Mp3 Songs</a></h3>                        
+                    </div>                    
+                </div>                    
+        </div>
+    </div>
+
+
+    <div class="div-nogap trend">
+        <div class="col12 onediv">
+                                        <!--                <h2 class="title1">
+                                    <i class="fa fa-music"></i>&ensp;Punjabi Songs 
+                                    <span>
+                                        <a href="/latest-new-punjabi-mp3-songs-2019/list.html">View All&ensp;<i class="fa fa-angle-double-right"></i></a>
+                                    </span>
+                                </h2>-->
+
+                
+                                    <h2 class="title1">
+                        <i class="fa fa-music"></i>&ensp;Punjabi Songs 
+                        <span>
+                            <a href="/latest-new-punjabi-mp3-songs-2019/files.html">View All&ensp;<i class="fa fa-angle-double-right"></i></a>
+                        </span>
+                    </h2>
+                    <div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Surma Ban - Harshit Tomar' src='/GpE34Kg9Gq/14648/142804-surma-ban-harshit-tomar-mp3-song-100-100.jpg' alt='Surma Ban - Harshit Tomar' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/surma-ban-harshit-tomar-mp3-song/download.html">
+                            <h2 style="font-weight: 400">Surma Ban - Harshit Tomar</h2>   
+                        </a><div class='listbox-tags'>Meet Kaur, Harshit Tomar,  Tonne</div>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Jatt On Hunt - Dilpreet Dhillon' src='/GpE34Kg9Gq/14648/142803-jatt-on-hunt-dilpreet-dhillon-mp3-song-100-100.jpg' alt='Jatt On Hunt - Dilpreet Dhillon' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/jatt-on-hunt-dilpreet-dhillon-mp3-song/download.html">
+                            <h2 style="font-weight: 400">Jatt On Hunt - Dilpreet Dhillon</h2>   
+                        </a><div class='listbox-tags'>Jovan Dhillon,  Dilpreet Dhillon,  Desi Crew</div>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Gabru Da Naam - Kadir Thind' src='/GpE34Kg9Gq/14648/142802-gabru-da-naam-kadir-thind-mp3-song-100-100.jpg' alt='Gabru Da Naam - Kadir Thind' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/gabru-da-naam-kadir-thind-mp3-song/download.html">
+                            <h2 style="font-weight: 400">Gabru Da Naam - Kadir Thind</h2>   
+                        </a><div class='listbox-tags'>Kadir Thind,  Kadir Thind</div>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Summer Luv - Mickey Singh' src='/GpE34Kg9Gq/14648/142796-summer-luv-mickey-singh-mp3-song-100-100.jpg' alt='Summer Luv - Mickey Singh' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/summer-luv-mickey-singh-mp3-song/download.html">
+                            <h2 style="font-weight: 400">Summer Luv - Mickey Singh</h2>   
+                        </a><div class='listbox-tags'>Mickey Singh,  Tedi Pagg</div>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Chal Oye - Parmish Verma' src='/GpE34Kg9Gq/14648/142795-chal-oye-parmish-verma-mp3-song-100-100.jpg' alt='Chal Oye - Parmish Verma' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/chal-oye-parmish-verma-mp3-song/download.html">
+                            <h2 style="font-weight: 400">Chal Oye - Parmish Verma</h2>   
+                        </a><div class='listbox-tags'>Parmish Verma,  Desi Crew</div>
+                   </div>
+                </div>    
+        </div>
+    </div>
+
+
+    <div class="div-nogap trend">
+        <div class="col12 onediv">
+                                        <!--                <h2 class="title1">
+                                    <i class="fa fa-music"></i>&ensp;IndiPOP Songs 
+                                    <span>
+                                        <a href="/indian-pop-mp3-songs-2019/list.html">View All&ensp;<i class="fa fa-angle-double-right"></i></a>
+                                    </span>
+                                </h2>-->
+
+                
+                                    <h2 class="title1">
+                        <i class="fa fa-music"></i>&ensp;IndiPOP Songs 
+                        <span>
+                            <a href="/indian-pop-mp3-songs-2019/files.html">View All&ensp;<i class="fa fa-angle-double-right"></i></a>
+                        </span>
+                    </h2>
+                    <div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Tere Jaane Se Pehle - Jubin Nautiyal' src='/GpE34Kg9Gq/14642/142808-tere-jaane-se-pehle-jubin-nautiyal-mp3-song-100-100.jpg' alt='Tere Jaane Se Pehle - Jubin Nautiyal' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/tere-jaane-se-pehle-jubin-nautiyal-mp3-song/download.html">
+                            <h2 style="font-weight: 400">Tere Jaane Se Pehle - Jubin Nautiyal</h2>   
+                        </a><div class='listbox-tags'>Jubin Nautiyal,  Viraal</div>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Tere Bin Kive - Mr Faisu' src='/GpE34Kg9Gq/14642/142801-tere-bin-kive-mr-faisu-mp3-song-100-100.jpg' alt='Tere Bin Kive - Mr Faisu' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/tere-bin-kive-mr-faisu-mp3-song/download.html">
+                            <h2 style="font-weight: 400">Tere Bin Kive - Mr Faisu</h2>   
+                        </a><div class='listbox-tags'>Jannat Zubair,  Mr Faisu ,  Ramji Gulati</div>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Mashallah - Gima Ashi' src='/GpE34Kg9Gq/14642/142800-mashallah-gima-ashi-mp3-song-100-100.jpg' alt='Mashallah - Gima Ashi' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/mashallah-gima-ashi-mp3-song/download.html">
+                            <h2 style="font-weight: 400">Mashallah - Gima Ashi</h2>   
+                        </a><div class='listbox-tags'>Ravneet Singh,  Sumneet,  Vee</div>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Haare Haare - Mashup' src='/GpE34Kg9Gq/14642/142798-haare-haare-mashup-mp3-song-100-100.jpg' alt='Haare Haare - Mashup' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/haare-haare-mashup-mp3-song/download.html">
+                            <h2 style="font-weight: 400">Haare Haare - Mashup</h2>   
+                        </a><div class='listbox-tags'>Raj Barman,  Anwesshaa</div>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Afeemi - MTV Unplugged' src='/GpE34Kg9Gq/14642/142797-afeemi-mtv-unplugged-mp3-song-100-100.jpg' alt='Afeemi - MTV Unplugged' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/afeemi-mtv-unplugged-mp3-song/download.html">
+                            <h2 style="font-weight: 400">Afeemi - MTV Unplugged</h2>   
+                        </a><div class='listbox-tags'>Jigar Saraiya,  Sanah Moidutty,  Sachin Jigar</div>
+                   </div>
+                </div>    
+        </div>
+    </div>
+
+ 
+    <div class="div-nogap trend">
+        <div class="col12 fivediv">
+                        
+                
+                                    <h2 class="title1">
+                        <i class="fa fa-music"></i>&ensp;Dj Remix Songs 
+                        <span>
+                            <a href="/dj-remix-2019-mp3-songs/list.html">View All&ensp;<i class="fa fa-angle-double-right"></i></a>
+                        </span>
+                    </h2>
+                                    
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/dj-remix-singles-2019-hindi-mp3-songs/files.html" class=""><img title='DJ Remix Singles  2019 Hindi Mp3 Songs' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14652/thumb-dj-remix-singles-2019-hindi-mp3-songs-100-100.jpg' alt='DJ Remix Singles  2019 Hindi Mp3 Songs' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/dj-remix-singles-2019-hindi-mp3-songs/files.html">DJ Remix Singles  2019 Hindi Mp3 Songs</a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/punjabi-dj-songs-2019-remix-mp3-songs/files.html" class=""><img title='Punjabi DJ Songs 2019 - Remix Mp3 Songs' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14651/thumb-punjabi-dj-songs-2019-remix-mp3-songs-100-100.jpg' alt='Punjabi DJ Songs 2019 - Remix Mp3 Songs' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/punjabi-dj-songs-2019-remix-mp3-songs/files.html">Punjabi DJ Songs 2019 - Remix Mp3 Songs</a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/hindi-punjabi-mashup-songs-2019/files.html" class=""><img title='Hindi Punjabi Mashup Songs 2019 ' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14664/thumb-hindi-punjabi-mashup-songs-2019-100-100.jpg' alt='Hindi Punjabi Mashup Songs 2019 ' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/hindi-punjabi-mashup-songs-2019/files.html">Hindi Punjabi Mashup Songs 2019 </a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/old-dj-hindi-remix-mp3-songs/files.html" class=""><img title='Old DJ Hindi Remix - Mp3 Songs' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14680/thumb-old-dj-hindi-remix-mp3-songs-100-100.jpg' alt='Old DJ Hindi Remix - Mp3 Songs' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/old-dj-hindi-remix-mp3-songs/files.html">Old DJ Hindi Remix - Mp3 Songs</a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/desilicious-91-dj-shadow-dubai-2019/files.html" class=""><img title='Desilicious 91 DJ Shadow Dubai 2019' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14650/thumb-desilicious-91-dj-shadow-dubai-2019-100-100.jpg' alt='Desilicious 91 DJ Shadow Dubai 2019' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/desilicious-91-dj-shadow-dubai-2019/files.html">Desilicious 91 DJ Shadow Dubai 2019</a></h3>                        
+                    </div>                    
+                </div>                
+                             
+        </div>
+    </div> 
+
+    <div class="div-nogap trend">
+        <div class="col12 fivediv">
+                        
+                
+                                    <h2 class="title1">
+                        <i class="fa fa-music"></i>&ensp;Bollywood Videos 
+                        <span>
+                            <a href="/bollywood-video-song-n-trailer-2019/files.html">View All&ensp;<i class="fa fa-angle-double-right"></i></a>
+                        </span>
+                    </h2>
+                    <div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Saaho - Hindi Teaser Trailer' src='/GpE34Kg9Gq/14646/142809-saaho-hindi-teaser-trailer-100-100.jpg' alt='Saaho - Hindi Teaser Trailer' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/saaho-hindi-teaser-trailer/download.html">
+                            <h2 style="font-weight: 400">Saaho - Hindi Teaser Trailer</h2>   
+                        </a>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Super 30 - Trailer' src='/GpE34Kg9Gq/14646/142785-super-30-trailer-100-100.jpg' alt='Super 30 - Trailer' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/super-30-trailer/download.html">
+                            <h2 style="font-weight: 400">Super 30 - Trailer</h2>   
+                        </a>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Kabir Singh - Trailer' src='/GpE34Kg9Gq/14646/119225-kabir-singh-trailer-100-100.jpg' alt='Kabir Singh - Trailer' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/kabir-singh-trailer/download.html">
+                            <h2 style="font-weight: 400">Kabir Singh - Trailer</h2>   
+                        </a>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Bharat - Trailer - Salman Khan' src='/GpE34Kg9Gq/14646/119141-bharat-trailer-salman-khan-100-100.jpg' alt='Bharat - Trailer - Salman Khan' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/bharat-trailer-salman-khan/download.html">
+                            <h2 style="font-weight: 400">Bharat - Trailer - Salman Khan</h2>   
+                        </a>
+                   </div>
+                </div><div class="listbox">
+                    <div class="cat-list">
+                        <div class="pster">
+                            <img title='Student Of The Year 2 - Trailer' src='/GpE34Kg9Gq/14646/119070-student-of-the-year-2-trailer-100-100.jpg' alt='Student Of The Year 2 - Trailer' style='width:80px; height:80px'>
+                        </div>
+                        <a href="/student-of-the-year-2-trailer/download.html">
+                            <h2 style="font-weight: 400">Student Of The Year 2 - Trailer</h2>   
+                        </a>
+                   </div>
+                </div>
+                             
+        </div>
+    </div> 
+
+    <div class="div-nogap trend">
+        <div class="col12 fivediv">
+                        
+                
+                                    <h2 class="title1">
+                        <i class="fa fa-music"></i>&ensp;Latest Ringtones 
+                        <span>
+                            <a href="/ringtones/list.html">View All&ensp;<i class="fa fa-angle-double-right"></i></a>
+                        </span>
+                    </h2>
+                                    
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/new-ringtones-for-tik-tok/files.html" class=""><img title='New Ringtones For Tik Tok' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14458/thumb-new-ringtones-for-tik-tok-100-100.jpg' alt='New Ringtones For Tik Tok' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/new-ringtones-for-tik-tok/files.html">New Ringtones For Tik Tok</a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/hindi-bollywood-ringtone-2019/files.html" class=""><img title='Hindi Bollywood Ringtones 2019' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14655/thumb-hindi-bollywood-ringtone-2019-100-100.jpg' alt='Hindi Bollywood Ringtones 2019' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/hindi-bollywood-ringtone-2019/files.html">Hindi Bollywood Ringtones 2019</a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/punjabi-ringtone-2019/files.html" class=""><img title='Punjabi Ringtone 2019' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14656/thumb-punjabi-ringtone-2019-100-100.jpg' alt='Punjabi Ringtone 2019' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/punjabi-ringtone-2019/files.html">Punjabi Ringtone 2019</a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/top-ringtones-2019/files.html" class=""><img title='Top Ringtones 2019' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14597/thumb-top-ringtones-2019-100-100.jpg' alt='Top Ringtones 2019' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/top-ringtones-2019/files.html">Top Ringtones 2019</a></h3>                        
+                    </div>                    
+                </div>                                
+<div class="tnned alt-bg-gray" style="width:100%">
+                    <div>
+                        <a href="/international-hit-ringtones/files.html" class=""><img title='International Hit Ringtones' src='/imgs/loading.svg' data-src='/GpE34Kg9Gq/14523/thumb-international-hit-ringtones-100-100.jpg' alt='International Hit Ringtones' width='80' height='80'/></a>                    </div>
+                    <div>
+                        <h3><a href="/international-hit-ringtones/files.html">International Hit Ringtones</a></h3>                        
+                    </div>                    
+                </div>                
+                             
+        </div>
+    </div> 
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "url": "https://www.pagalworld.live/",
+    "logo": "https://www.pagalworld.live/img/icon.jpg"
+    }
+</script>             &nbsp;
+<hr> 
+
+<footer class="footer-distributed">
+            <div class="footer-4th">
+                            <a href="/music.html">All Mp3 Songs</a><br>
+                            <a href="/latest-bollywood-hindi-music/list.html">Bollywood Mp3 Songs</a><br>
+                            <a href="/punjabi-songs/list.html">Punjabi Mp3 Songs</a><br>
+                            <a href="/indipop/list.html">Indipop Mp3 Song</a><br>
+                            <a href="/dj-remix/list.html">DJ Remix Mp3 Songs</a><br>
+                            <a href="/bhakti-bhagwaan-songs/list.html">Bhakti God Mp3 Songs</a><br>
+                            <a href="/desh-bhakti-songs/list.html">Desh Bhakti Songs</a><br>
+                            <a href="/best-of-artist-singer-mp3-songs/list.html">Best Of Artists Mp3 Songs</a><br>
+                            <a href="/yo-yo-honey-singh-all-songs/files.html">Yo Yo Honey Singh Mp3 Songs</a><br>
+                            <a href="/best-of-arijit-singh-mp3-songs/list.html">Arijit Singh Mp3 Songs</a><br>
+                            <a href="/best-of-atif-aslam-mp3-songs/list.html">Atif Aslam Mp3 Songs</a><br>
+                    </div>
+            <div class="footer-4th">
+                            <a href="/videos.html">All Videos</a><br>
+                            <a href="/bollywood-video-songs-n-trailers/list.html">Bollywood Videos 2018</a><br>
+                            <a href="/punjabi-hd-video-songs-2018/list.html">Punjabi Videos 2018</a><br>
+                            <a href="/indipop-hd-video-songs/list.html">Indipop Videos</a><br>
+                            <a href="/ringtones.html">All Ringtones</a><br>
+                            <a href="/hindi-bollywood-mp3-ringtones/list.html">Bollywood Ringtones </a><br>
+                    </div>
+            <div class="footer-4th">
+                            <a href="/disclaimer.html">Disclaimer</a><br>
+                            <a href="/tou.html">Terms of use</a><br>
+                            <a href="https://www.pagalworld.live/contact-us.html">Contact Us</a><br>
+                    </div>
+     
+
+    <div class="clearfix"></div>
+    <div class="footer-bottom" style="width: 100%">
+        <div style="width: 49%; text-align: left; display: inline-block; color: #FFF">
+            &copy; Copyright 2019 2020 - PagalWorld.LIVE 
+        </div>
+        <div style="width: 49%; text-align: right; display: inline-block">
+            <a class="social" href="https://t.me/pagalworldasli"><i class="fa fa-telegram"></i></a>             
+            <a class="social" href="https://plus.google.com/117037366808924350836"><i class="fa fa-google-plus"></i></a>            
+        </div> 
+    </div> 
+</footer>        </main>
+        <div class="adrect2">
+            <!--<div><i class="fa fa-picture-o"></i>&ensp;Ads Goes Here 2</div>-->
+        </div>
+
+
+        <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+                    <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131724677-1"></script>
+            <script>
+                        window.dataLayer = window.dataLayer || [];
+                        function gtag() {
+                            dataLayer.push(arguments);
+                        }
+                        gtag('js', new Date());
+
+                        gtag('config', 'UA-131724677-1');
+            </script> 
+                        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org", 
+            "@type": "Organization",
+            "name": "PagalWorld.LIVE",
+            "url": "https://www.pagalworld.live/",
+            "sameAs": [
+            "https://plus.google.com/117037366808924350836"                        
+            ]
+            }
+        </script>
+                <script src="/js/main-0fdc33b283737d9a76eb4e71a3923e71.js"></script>
+<script type="text/javascript">  var bLazy = new Blazy({
+        selector: 'img',
+        success: function(element){
+	    setTimeout(function(){
+		var parent = element.parentNode;
+		parent.className = parent.className.replace(/\bloading\b/,'');
+	    }, 200);
+        }
+   });</script>            </body>
+</html>
+  

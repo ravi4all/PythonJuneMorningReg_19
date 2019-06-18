@@ -2,6 +2,7 @@ import bs4
 import urllib.request as url
 
 movieName = input("Enter movie name : ")
+movieName = '+'.join(movieName.split())
 path = "https://www.imdb.com/find?ref_=nv_sr_fn&q="+movieName
 
 http = url.urlopen(path)
