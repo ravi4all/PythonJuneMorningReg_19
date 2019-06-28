@@ -37,6 +37,19 @@ def snake(snakeList):
                                        snakeList[i][1],
                                        50,50])
 
+def gameOver():
+    font = pygame.font.SysFont(None, 80)
+    text = font.render("Game Over", True, black)
+    while True:
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
+                quit()
+
+        screen.blit(text, (300,100))
+        pygame.display.update()
+
+
 def score(count):
     font = pygame.font.SysFont(None, 30)
     text = font.render("Score : {}".format(count), True, black)
@@ -84,10 +97,14 @@ while True:
 
     snakeList.append(snakeHead)
 
-    if len(snakeList) > snakeLength:
-        del snakeList[0]
+    # if len(snakeList) > snakeLength:
+    #     del snakeList[0]
     # print(snakeList)
     snake(snakeList)
+
+    for each in snakeList[:-1]:
+        if snakeList[-1] == each:
+            gameOver()
 
     if frog_rect.colliderect(snake_rect):
         frogX = random.randint(0, width - frogWidth)
