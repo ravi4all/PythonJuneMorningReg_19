@@ -1,4 +1,5 @@
 from datetime import datetime
+import readWrite
 
 users = []
 posts = []
@@ -62,6 +63,7 @@ def register():
     pwd = input("Enter pwd : ")
     user = {"name":name, "email":email,"pwd":pwd}
     users.append(user)
+    readWrite.writeData(user)
     for item in users:
         print(item)
 

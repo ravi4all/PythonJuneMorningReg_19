@@ -1,0 +1,5 @@
+name,score,avg
+sachin,120,45
+kohli,80,55
+dhoni,65,54
+rohit,39,49

@@ -1,0 +1,7 @@
+1. Open
+2. Read/Write
+3. Close
+
+Modes
+text - r/w/a
+bin  - rb/wb/ab
