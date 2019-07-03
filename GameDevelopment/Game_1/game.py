@@ -36,7 +36,6 @@ def snake(snakeList):
         pygame.draw.rect(screen, red, [snakeList[i][0],
                                        snakeList[i][1],
                                        50,50])
-
 def gameOver():
     font = pygame.font.SysFont(None, 80)
     text = font.render("Game Over", True, black)
@@ -49,11 +48,26 @@ def gameOver():
         screen.blit(text, (300,100))
         pygame.display.update()
 
-
 def score(count):
     font = pygame.font.SysFont(None, 30)
     text = font.render("Score : {}".format(count), True, black)
     screen.blit(text, (100,10))
+
+def highestScore(count):
+    font = pygame.font.SysFont(None, 30)
+    file = open('score.txt')
+    s = file.read()
+    s = int(s)
+    file.close()
+    if s < count:
+        text = font.render("Highest Score : {}".format(count), True, black)
+        file = open('score.txt', 'w')
+        file.write(str(count))
+        file.close()
+    else:
+        text = font.render("Highest Score : {}".format(s), True, black)
+
+    screen.blit(text, (300, 10))
 
 FPS = 100
 clock = pygame.time.Clock()
@@ -97,8 +111,8 @@ while True:
 
     snakeList.append(snakeHead)
 
-    # if len(snakeList) > snakeLength:
-    #     del snakeList[0]
+    if len(snakeList) > snakeLength:
+        del snakeList[0]
     # print(snakeList)
     snake(snakeList)
 
@@ -115,6 +129,7 @@ while True:
         count += 1
 
     score(count)
+    highestScore(count)
 
     if x > width:
         x = -50
